@@ -1,4 +1,4 @@
-# Inferencia-Bayesiana-2026-o-IBC1-Entregas
+
 # Inferencia Bayesiana Causal (2026-2C) - UNSAM
 **Estudiante:** [Danny Alejandra Baron Romero]  
 **Carrera:** Licenciatura en Ciencia de Datos / Sistemas  
