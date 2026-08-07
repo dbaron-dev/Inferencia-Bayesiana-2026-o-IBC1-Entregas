@@ -1,0 +1,1 @@
+# Inferencia-Bayesiana-2026-o-IBC1-Entregas
